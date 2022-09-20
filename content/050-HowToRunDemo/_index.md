@@ -15,6 +15,6 @@ HotSpots will not be highlighted like when 'Inspection' mode is enabled, but the
 - When you mouse over a HotSpot, the extension icon will show an abbreviation of the action that would fire if you would click on the 'mouse-overed' element. This is very useful to remind you where to click next in your demo.
 
 
-## [Video: Deno Extension Execution Mode](https://youtu.be/M0Fov05ZdWU)
+## [Video: Demo Extension Execution Mode](https://youtu.be/M0Fov05ZdWU)
 
 
