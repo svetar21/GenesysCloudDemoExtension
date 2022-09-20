@@ -1,5 +1,5 @@
 ---
-title: "Genesys Cloud Demo Extension"
+title: "Introduction"
 chapter: true
 weight: 10
 ---
