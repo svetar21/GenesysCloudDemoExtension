@@ -1,5 +1,5 @@
 ---
-title: "Custom Event"
+title: "How to send Predictive Engagement 'Custom Event'"
 chapter: true
 weight: 50
 ---
@@ -20,6 +20,6 @@ Custom Events are similar to Web Events, but they are not part of the Web sessio
 - Fill the desired attribute name/value pairs
 - 'Save', then 'Close'
 
-[CustomEvent](https://youtu.be/nFqAciPD9bA)
-
+## [Vide: Demo Extension Dev Mode 5 Custom Event](https://youtu.be/nFqAciPD9bA)
+ 
 
