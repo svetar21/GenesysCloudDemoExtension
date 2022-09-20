@@ -13,6 +13,6 @@ In this workshop, you will learn how use Demo Extension to build and run Predict
 - [Genesys Cloud CX Dev Lab Setup](https://workshop.genesys.com/workshops/gride-demo/)
 
 ### Learning Objectives
-- Set up Chrome Extension for PureloudNow or your own Gensys Cloud organization
+- Set up Chrome Extension for PureCloudNow or your own Gensys Cloud organization
 - Build demo for target web site
 - Run demo 
