@@ -4,6 +4,8 @@ chapter: true
 weight: 90
 ---
 
+![Title](/images/Conclusion.jpg)
+
 ## Finished!
 
 Congrats! You've reached the end of today's workshop. Now you know hot to use Demo Extension to quickly show your customer what it would be like to have their corporate website powered by Genesys Cloud.
