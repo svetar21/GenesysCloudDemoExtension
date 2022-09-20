@@ -9,16 +9,20 @@ weight: 10
 ## Install the Chrome Extension
 - Link to the extension installation
 
-- Click on   button
+- Click on ![AddTo](/images/file_1603755277420_add-to-chrome.png)  button
 
 - In Chrome toolbar, click on the Extension icon:
 
-
+ ![Extension](/images/file_1603755872316_ext-1.png) 
+ 
 - Pin the extension to the toolbar:
 
-
+ ![Pin](/images/file_1603756007050_ext-2.png) 
+ 
 - Extension icon will show in the toolbar for you to use:
 
+ ![Icon](/images/file_1603756259503_ext-4.png) 
+ 
 ### Setting up for PureCloudNow
 - Click on the Extension icon and select Options
 - In the Channels tab, select your PCN queue
