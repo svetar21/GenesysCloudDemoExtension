@@ -19,5 +19,4 @@ To start with an empty Predictive Engagement session, define a hotspot that will
 - In the contextual menu, click on 'Create function'
 - Select 'Reset Session', then 'Save', then 'Close'
 
-[ResetPE]([https://portal-1007-westus2.prod001.genesysengage.com/](https://youtu.be/vDNWk6iedJo))
-[Azure EOD Portal](https://www.youtube.com/watch?v=7rzzB4TzYQI/)
+[ResetPE](https://www.youtube.com/watch?v=7rzzB4TzYQI/)
