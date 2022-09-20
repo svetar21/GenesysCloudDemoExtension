@@ -37,6 +37,7 @@ weight: 10
 - Select your Widgets v1 deployment key (if you plan to use Widgets v1)
 - Hit 'Save'
 
+https://youtu.be/JCKsTD82QUs
 
 >In your own org, segments and outcomes can be creating from the events being tracked in the chrome extension.  For more information how how to configure segments and outcomes from events,  please see here:  https://all.docs.genesys.com/ATC/Current/AdminGuide/AttributesJourney 
 
