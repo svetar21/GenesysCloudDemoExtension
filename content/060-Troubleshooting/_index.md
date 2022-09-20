@@ -15,7 +15,7 @@ Some websites include CSP (Content Security Policy) directives that block the lo
 This translate into Chrome console with error messages like:
 "Refused to connect to 'https://api.mypurecloud.com/api/v2/webchat/guest/conversations' because it violates the following Content Security Policy directive:..." 
 
-To workaround this issue, you can install the ["Always Disable Content-Security-Policy"](https://chrome.google.com/webstore/detail/always-disable-content-se/ffelghdomoehpceihalcnbmnodohkibj) Extension from Chrome store.
+To workaround this issue, you can install the ["Always Disable Content-Security-Policy "Extension from Chrome store](https://chrome.google.com/webstore/detail/always-disable-content-se/ffelghdomoehpceihalcnbmnodohkibj) Extension from Chrome store.
 
 Once installed, enable that extension by clicking on the   - it will turn red when enabled. When enabled, the Genesys Demo Extension should no longer be affected by CSP directives.
 
