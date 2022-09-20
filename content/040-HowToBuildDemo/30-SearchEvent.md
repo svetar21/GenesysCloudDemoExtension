@@ -1,5 +1,5 @@
 ---
-title: "How to send Predictive Engagement 'Search Event'"
+title:"How to send Predictive Engagement 'Search Event'"
 chapter: true
 weight: 30
 ---
