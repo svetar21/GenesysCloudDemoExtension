@@ -6,9 +6,13 @@ weight: 1
 
 ## Welcome
 
-In this workshop you will learn to apply your foundational knowledge of [Genesys](https://genesys.com) and master example use cases that demonstrate [Experience as a Service](https://www.genesys.com/experience-as-a-service).
+In this workshop, you will learn how use Demo Extension to build and run Predictive Engagemnent demo to engage with with PureCloudNow or your own Genesys Cloud organization.
+
+### Prferequisites
+
+- [Genesys Cloud CX Dev Lab Setup](https://workshop.genesys.com/workshops/gride-demo/)
 
 ### Learning Objectives
-- Setup and configure your environment.
-- Creating users and groups.
-- Configure security.
+- Set up Chrome Extension for PureloudNow or your own Gensys Cloud organization
+- Build demo for target web site
+- Run demo 
