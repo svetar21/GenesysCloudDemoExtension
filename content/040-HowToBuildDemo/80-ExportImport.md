@@ -15,6 +15,6 @@ To share this demo with someone, or to restore your demo on a different machine 
 
 
 >Notes
-If you use a custom Genesys Cloud org (not PureCloudNow), you can create segments and outcomes from the events being tracked in the chrome extension.
+- If you use a custom Genesys Cloud org (not PureCloudNow), you can create segments and outcomes from the events being tracked in the chrome extension.
 
-For more information on how how to configure segments and outcomes from events,  please see here: https://all.docs.genesys.com/ATC/Current/AdminGuide/AttributesJourney 
+- For more information on how how to configure segments and outcomes from events,  please see here: https://all.docs.genesys.com/ATC/Current/AdminGuide/AttributesJourney 
