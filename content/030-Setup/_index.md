@@ -41,4 +41,4 @@ weight: 30
 - Select your Widgets v1 deployment key (if you plan to use Widgets v1)
 - Hit 'Save'
 
-https://youtu.be/JCKsTD82QUs
+[Video](https://youtu.be/JCKsTD82QUs)
