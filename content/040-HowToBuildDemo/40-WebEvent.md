@@ -1,11 +1,11 @@
 ---
-title: "Web Event"
+title: "How to record a Predictive Engagement 'Web Event'"
 chapter: true
 weight: 40
 ---
 
 
-###b How to record a Predictive Engagement 'Web Event'
+## How to record a Predictive Engagement 'Web Event'
 
 To record a Web Event, we need to send a 'record' event with the desired event name and attributes. 
 
@@ -17,5 +17,5 @@ To record a Web Event, we need to send a 'record' event with the desired event n
 - Fill the desired attribute name/value pairs
 - 'Save', then 'Close'
 
-[WebEvent](https://youtu.be/FktZ5aOXHQI)
+## [Video: Demo Extension Dev Mode 4 WebEvent](https://youtu.be/FktZ5aOXHQI)
 
