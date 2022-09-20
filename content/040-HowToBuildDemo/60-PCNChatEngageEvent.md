@@ -1,5 +1,5 @@
 ---
-title: "PCN Chat Engage Event"
+title: "How to record a Predictive Engagement 'PCN Chat Engage Event'"
 chapter: true
 weight: 60
 ---
@@ -19,4 +19,4 @@ By sending a special 'engage_now' event to PCN, an Action Map will trigger that 
 - Fill the desired attribute name/value pairs (for instance a 'Reason' attribute)
 - 'Save', then 'Close'
 
-[PCNChatEnagegeEvent](https://youtu.be/XW8yANQ01L8)
+## [Video: Demo Extension Dev Mode 6 PCN Chat Enagege Event](https://youtu.be/XW8yANQ01L8)
