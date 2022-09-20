@@ -3,9 +3,9 @@ title: "Introduction"
 chapter: true
 weight: 10
 ---
+![Title](/images/Introduction.PNG)
 
 
-## Introduction
 
 ### Why use the Demo Extension?
 
