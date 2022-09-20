@@ -11,7 +11,7 @@ To save a demo for a domain to your disk, select the 'Export' button next to the
 To share this demo with someone, or to restore your demo on a different machine or Chrome profile, go to the extension Options / Demo and click 'Import'. Choose the previously exported JSON file and 'Load'. This will load this demo (overwrites the entire domain demo if any). Simply hit 'Save' to apply these changes.
 
 
-[ExportImport](https://youtu.be/q8ZT3GUDYSQ)
+## [Video: Demo Extension Dev Mode 8 Options Demo](https://youtu.be/q8ZT3GUDYSQ)
 
 
 >Notes
