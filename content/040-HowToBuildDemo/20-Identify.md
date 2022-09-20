@@ -1,5 +1,5 @@
 ---
-title: "Identify?"
+title: "How to send Predictive Engagement 'Identify'"
 chapter: true
 weight: 20
 ---
@@ -14,5 +14,5 @@ Depending on the use case, it might be interesting to show how a visitor starts 
 - Select 'Send Identify'
 - Fill the form in - it is prefilled with the Extension's Customer info (can be changed in the options), then 'Save', then 'Close'
 
-[Identify](https://youtu.be/FkRPXy6SWS0)
+## [Video: Demo Extension Dev Mode 2 Identify](https://youtu.be/FkRPXy6SWS0)
 
