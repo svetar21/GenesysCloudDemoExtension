@@ -41,4 +41,4 @@ weight: 30
 - Select your Widgets v1 deployment key (if you plan to use Widgets v1)
 - Hit 'Save'
 
-## [Demo Extension Setup Custom Org Video](https://youtu.be/JCKsTD82QUs)
+### [Video: Demo Extension Setup Custom Org](https://youtu.be/JCKsTD82QUs)
