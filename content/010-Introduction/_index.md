@@ -4,7 +4,6 @@ chapter: true
 weight: 10
 ---
 
-# Genesys Cloud Demo Extension
 
 ## Introduction
 
