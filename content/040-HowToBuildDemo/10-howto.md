@@ -1,15 +1,8 @@
 ---
-title: "How to build a demo?"
+title: "How to reset the Predictive Engagement session"
 chapter: true
 weight: 10
 ---
-
-## How to build a demo?
-
-### To build a demo
-
-Navigate to the target web site
-Click on Demo Extension icon and go into "Demo Edit" mode by enabling both the "Inspection" and "Injection"
 
 ### How to reset the Predictive Engagement session
 To start with an empty Predictive Engagement session, define a hotspot that will reset the session (send 'destroy' event):
@@ -19,4 +12,4 @@ To start with an empty Predictive Engagement session, define a hotspot that will
 - In the contextual menu, click on 'Create function'
 - Select 'Reset Session', then 'Save', then 'Close'
 
-[ResetPE](https://www.youtube.com/watch?v=7rzzB4TzYQI/)
+## [Video: Demo Extension Dev Mode 1 Reset](https://www.youtube.com/watch?v=7rzzB4TzYQI/)
