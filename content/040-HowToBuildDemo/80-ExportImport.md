@@ -14,6 +14,7 @@ To share this demo with someone, or to restore your demo on a different machine 
 ## [Video: Demo Extension Dev Mode 8 Options Demo](https://youtu.be/q8ZT3GUDYSQ)
 
 
+
 >Notes
 >- If you use a custom Genesys Cloud org (not PureCloudNow), you can create segments and outcomes from the events being tracked in the chrome extension.
 >- For more information on how how to configure segments and outcomes from events,  please see here: https://all.docs.genesys.com/ATC/Current/AdminGuide/AttributesJourney 
