@@ -28,7 +28,7 @@ The extension saves the demo configuration in the Chrome local storage. This dem
 
 The extension can be in three working states. The state applies per tab. These states are:
 
-- **"OFF"**: both **Inspection** and **Injection** are **red** ![Red](/images/![Pin](/images/Red.PNG) ) . The extension has no impact on the browsed site.
+- **"OFF"**: both **Inspection** and **Injection** are **red** ![Red](/images/Red.PNG) ) . The extension has no impact on the browsed site.
 
 - **"Demo Edit"** mode: both **Inspection** and **Injection** are **green**. In this mode, you can add HotSpots (actions attached to selected elements) by using your mouse right-click and chosing the action to execute. Any {element, action} pair is highlighted with a green border line for you to identify what has been built.
 
