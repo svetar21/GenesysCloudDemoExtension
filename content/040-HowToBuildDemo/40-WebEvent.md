@@ -17,5 +17,5 @@ To record a Web Event, we need to send a 'record' event with the desired event n
 - Fill the desired attribute name/value pairs
 - 'Save', then 'Close'
 
-## [Video: Demo Extension Dev Mode 4 WebEvent](https://youtu.be/FktZ5aOXHQI)
+## [Video: Demo Extension Dev Mode 4 Web Event](https://youtu.be/FktZ5aOXHQI)
 
