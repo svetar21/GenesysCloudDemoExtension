@@ -5,7 +5,6 @@ weight: 60
 ---
 
 ![Title](/images/Troubl.PNG)
-![Title](/images/Conclusion.jpg)
 
 
 ### Overcome CSP issues
