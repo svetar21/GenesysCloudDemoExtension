@@ -4,7 +4,8 @@ chapter: true
 weight: 30
 ---
 
-## Setup
+![Title](/images/Setup.PNG)
+
 
 ### Install the Chrome Extension
 - [Link to the extension installation](https://chrome.google.com/webstore/detail/genesys-gdemo-extension/jiilhcbdojcdonkigflgmdnljialgmfh)
