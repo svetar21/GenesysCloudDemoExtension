@@ -4,7 +4,7 @@ chapter: true
 weight: 40
 ---
 
-## How to build a demo?
+![Title](/images/Setup.PNG)
 
 ### To build a demo
 
