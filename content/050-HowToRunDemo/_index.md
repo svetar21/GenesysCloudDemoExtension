@@ -4,7 +4,7 @@ chapter: true
 weight: 50
 ---
 
-![Title](/images/Setup.PNG)
+![Title](/images/Run.PNG)
 
 
 To run a demo navigate to the target web site, and go into "Demo Execution" mode by enabling the "Injection" and disabling the "Inspection". 
