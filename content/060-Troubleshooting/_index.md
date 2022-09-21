@@ -4,7 +4,7 @@ chapter: true
 weight: 60
 ---
 
-![Title](/images/Setup.PNG)
+![Title](/images/Troubl.PNG)
 
 ### Overcome CSP issues
 Some websites include CSP (Content Security Policy) directives that block the loading of external components, like the Demo Extension.
