@@ -4,7 +4,7 @@ chapter: true
 weight: 40
 ---
 
-![Title](/images/Setup.PNG)
+![Title](/images/Builld.PNG)
 
 ### To build a demo
 
