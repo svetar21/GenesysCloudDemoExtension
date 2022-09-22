@@ -14,6 +14,5 @@ Depending on the use case, it might be interesting to show how a visitor starts 
 - Select 'Send Identify'
 - Fill the form in - it is prefilled with the Extension's Customer info (can be changed in the options), then 'Save', then 'Close'
 
-## [Video: Demo Extension Dev Mode 2 Identify](https://youtu.be/FkRPXy6SWS0)
 
 {{< youtube id="FkRPXy6SWS0" title="Demo Extension Dev Mode 2 Identify" >}}
