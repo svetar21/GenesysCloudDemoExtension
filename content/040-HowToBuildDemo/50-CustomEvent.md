@@ -19,8 +19,6 @@ Custom Events are similar to Web Events, but they are not part of the Web sessio
 - Choose the event from the dropdown - do not type your own event name, as it would result in the event not being displayed to the agent
 - Fill the desired attribute name/value pairs
 - 'Save', then 'Close'
-
-## [Vide: Demo Extension Dev Mode 5 Custom Event](https://youtu.be/nFqAciPD9bA)
  
 
-{{< youtube id="vDNWk6iedJo" title="Demo Extension Dev Mode 1 Reset" >}}
+{{< youtube id="nFqAciPD9bA" title="Demo Extension Dev Mode 5 Custom Event" >}}
