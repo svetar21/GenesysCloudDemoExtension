@@ -18,6 +18,5 @@ You can delete a previously defined hotspot (highlighted with a green border):
 - In the contextual menu, click on 'Delete'
 - Confirm with 'Delete', then 'Close'
 
-## [Video: Demo Extension Dev Mode 7 Edit Delete Action](https://youtu.be/fzL9qy5rnMg)
 
-{{< youtube id="vDNWk6iedJo" title="Demo Extension Dev Mode 1 Reset" >}}
+{{< youtube id="fzL9qy5rnMg" title="Demo Extension Dev Mode 7 Edit Delete Action" >}}
