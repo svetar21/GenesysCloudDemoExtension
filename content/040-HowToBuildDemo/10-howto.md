@@ -13,3 +13,4 @@ To start with an empty Predictive Engagement session, define a hotspot that will
 - Select 'Reset Session', then 'Save', then 'Close'
 
 ## [Video: Demo Extension Dev Mode 1 Reset](https://www.youtube.com/watch?v=7rzzB4TzYQI/)
+{{< youtube, 7rzzB4TzYQI  >}}
