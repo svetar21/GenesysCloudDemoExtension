@@ -15,7 +15,6 @@ To capture a Search Event, we need to send a 'pageview' event with the configure
 - Fill URL with ?searchTerm=<the searched expression>, and the title to the same value (or anything else)
 - 'Save', then 'Close'
 
-## [Video: Demo Extension Dev Mode 3 Search Event](https://youtu.be/iC4rCgFWn8w)
 
 {{< youtube id="iC4rCgFWn8w" title="Demo Extension Dev Mode 3 Search Event" >}}
 
