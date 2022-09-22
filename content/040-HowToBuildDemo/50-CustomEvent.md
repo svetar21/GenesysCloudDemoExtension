@@ -23,3 +23,4 @@ Custom Events are similar to Web Events, but they are not part of the Web sessio
 ## [Vide: Demo Extension Dev Mode 5 Custom Event](https://youtu.be/nFqAciPD9bA)
  
 
+{{< youtube id="vDNWk6iedJo" title="Demo Extension Dev Mode 1 Reset" >}}
