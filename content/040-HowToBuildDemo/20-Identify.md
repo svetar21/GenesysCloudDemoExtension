@@ -16,4 +16,4 @@ Depending on the use case, it might be interesting to show how a visitor starts 
 
 ## [Video: Demo Extension Dev Mode 2 Identify](https://youtu.be/FkRPXy6SWS0)
 
-{{< youtube id="vDNWk6iedJo" title="Demo Extension Dev Mode 1 Reset" >}}
+{{< youtube id="FkRPXy6SWS0" title="Demo Extension Dev Mode 2 Identify" >}}
