@@ -18,3 +18,4 @@ HotSpots will not be highlighted like when 'Inspection' mode is enabled, but the
 ## [Video: Demo Extension Execution Mode](https://youtu.be/M0Fov05ZdWU)
 
 
+{{< youtube id="vDNWk6iedJo" title="Demo Extension Dev Mode 1 Reset" >}}
