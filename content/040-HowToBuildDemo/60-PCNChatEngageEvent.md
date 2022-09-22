@@ -20,3 +20,6 @@ By sending a special 'engage_now' event to PCN, an Action Map will trigger that 
 - 'Save', then 'Close'
 
 ## [Video: Demo Extension Dev Mode 6 PCN Chat Enagege Event](https://youtu.be/XW8yANQ01L8)
+
+{{< youtube id="vDNWk6iedJo" title="Demo Extension Dev Mode 1 Reset" >}}
+
