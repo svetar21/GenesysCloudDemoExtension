@@ -13,6 +13,7 @@ To share this demo with someone, or to restore your demo on a different machine 
 
 ## [Video: Demo Extension Dev Mode 8 Options Demo](https://youtu.be/q8ZT3GUDYSQ)
 
+{{< youtube id="vDNWk6iedJo" title="Demo Extension Dev Mode 1 Reset" >}}
 
 
 >Notes
