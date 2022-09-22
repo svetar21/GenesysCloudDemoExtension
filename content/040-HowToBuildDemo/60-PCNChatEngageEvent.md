@@ -19,7 +19,6 @@ By sending a special 'engage_now' event to PCN, an Action Map will trigger that 
 - Fill the desired attribute name/value pairs (for instance a 'Reason' attribute)
 - 'Save', then 'Close'
 
-## [Video: Demo Extension Dev Mode 6 PCN Chat Enagege Event](https://youtu.be/XW8yANQ01L8)
 
-{{< youtube id="vDNWk6iedJo" title="Demo Extension Dev Mode 1 Reset" >}}
+{{< youtube id="XW8yANQ01L8" title="Demo Extension Dev Mode 6 PCN Chat Enagege Event" >}}
 
