@@ -20,3 +20,4 @@ You can delete a previously defined hotspot (highlighted with a green border):
 
 ## [Video: Demo Extension Dev Mode 7 Edit Delete Action](https://youtu.be/fzL9qy5rnMg)
 
+{{< youtube id="vDNWk6iedJo" title="Demo Extension Dev Mode 1 Reset" >}}
