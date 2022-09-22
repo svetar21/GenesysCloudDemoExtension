@@ -17,5 +17,5 @@ To capture a Search Event, we need to send a 'pageview' event with the configure
 
 ## [Video: Demo Extension Dev Mode 3 Search Event](https://youtu.be/iC4rCgFWn8w)
 
-{{< youtube id="vDNWk6iedJo" title="Demo Extension Dev Mode 1 Reset" >}}
+{{< youtube id="iC4rCgFWn8w" title="Demo Extension Dev Mode 3 Search Event" >}}
 
