@@ -10,7 +10,9 @@ weight: 30
 ### Install the Chrome Extension
 - [Link to the extension installation](https://chrome.google.com/webstore/detail/genesys-gdemo-extension/jiilhcbdojcdonkigflgmdnljialgmfh)
 
-- Click on ![AddTo](/images/file_1603755277420_add-to-chrome.png)button
+- Click on [Add to Chrome] button in the top right:
+
+![AddTo](/images/file_1603755277420_add-to-chrome.png)
 
 - In Chrome toolbar, click on the Extension icon:
 
