@@ -12,7 +12,7 @@ weight: 30
 
 - Click on [Add to Chrome] button in the top right:
 
-![AddTo](/images/AddToChrome.PNG)
+![AddTo](/images/AddTo.PNG)
 
 - In Chrome toolbar, click on the Extension icon:
 
